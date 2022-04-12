@@ -1,0 +1,13 @@
+student_email,Assignment_file,ta_email,score,verified,submission,remarks,Course_ID
+x@gmail.com,https://cs001/A/1,xa@gmail.com,76,TRUE,https://github.com/a/1,Partial,CS_001
+x@gmail.com,https://cs001/A/2,xa@gmail.com,77,FALSE,https://github.com/a/2,Partial,CS_001
+x@gmail.com,https://cs001/A/3,xa@gmail.com,78,TRUE,https://github.com/a/3,Partial,CS_001
+z@gmail.com,https://cs001/A/1,yb@gmail.com,79,FALSE,https://github.com/a/4,Partial,CS_001
+z@gmail.com,https://cs001/A/2,yb@gmail.com,80,TRUE,https://github.com/a/5,Partial,CS_001
+z@gmail.com,https://cs001/A/3,yb@gmail.com,81,FALSE,https://github.com/a/6,Partial,CS_001
+x@gmail.com,https://cs004/A/1,le@gmail.com,82,FALSE,https://github.com/a/7,Partial,CS_004
+x@gmail.com,https://cs004/A/2,le@gmail.com,83,TRUE,https://github.com/a/8,Partial,CS_004
+y@gmail.com,https://cs004/A/1,mf@gmail.com,84,FALSE,https://github.com/a/9,Partial,CS_004
+y@gmail.com,https://cs004/A/2,mf@gmail.com,85,TRUE,https://github.com/a/10,Partial,CS_004
+x@gmail.com,https://cs005/A/1,ds@gmail.com,86,FALSE,https://github.com/a/11,Partial,CS_005
+y@gmail.com,https://cs005/A/1,ds@gmail.com,87,TRUE,https://github.com/a/12,Partial,CS_006

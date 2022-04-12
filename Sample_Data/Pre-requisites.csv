@@ -1,0 +1,17 @@
+course,prerequisite
+CS_003,CS_002
+CS_004,CS_001
+CS_005,CS_003
+CS_004,CS_003
+CS_005,CS_002
+CS_001,NULL
+CS_002,NULL
+
+insert into prerequisites values
+('CS_003', 'CS_002'),
+('CS_004', 'CS_001'),
+('CS_005', 'CS_003'),
+('CS_004', 'CS_003'),
+('CS_005', 'CS_002'),
+('CS_001'),
+('CS_002);

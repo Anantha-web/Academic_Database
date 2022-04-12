@@ -1,0 +1,9 @@
+Course_ID,Projectfile,Startdate,Enddate,Teamsize
+CS_002,https://cs002/P/1,07/10/21,14/10/21,2
+CS_004,https://cs004/P/1,09/0921,16/09/21,2
+CS_005,https://cs005/P/1,10/21,20/10/21,2
+
+insert into Project values
+('CS_002', 'https://cs002/P/1', 07-10-21, 14-10-21, 2),
+('CS_004', 'https://cs004/P/1', 09-09-21, 16-09-21, 2),
+('CS_005', 'https://cs005/P/1', 10-21-20, 30-21-20, 2);

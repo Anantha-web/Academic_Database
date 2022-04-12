@@ -1,0 +1,125 @@
+//Professor
+Country,City,pincode,Web-page,First_name,LastName
+India Chandigarh 232341,http://web-keerthi.p,Keerthi, p
+India warangal 506001,http://web-lakshmi.b,Lakshmi, b
+India Bhopal 462001,http://web-nan.m,Nanditha, m
+India Surat 768980,http://web-vamsi.k,VamsiKasyap, k
+
+//proflabs
+Web_Page, Lab
+http://web-keerthi.p,Keerthi,DSoC
+http://web-lakshmi.b,Lakshmi,CSD
+http://web-nan.m,Nanditha,COGINT
+http://web-vamsi.k,VamsiKasyap,CVIT
+
+//ProfEmail
+Web_page, Email
+http://web-keerthi,keerthi.p@gmail.com
+http://web-lakshmi,lb@gmail.com
+http://web-nan,nandu.m@gmail.com
+http://web-vamsi,vk@gmail.com
+
+
+//Student
+First name,Last name,rollnum,Email
+Anantha, Lakshmi,2020101103,x@gmail.com
+Balaram, Krishna,2020101024,y@gmail.com
+Sai,Akash,2020101042,z@gmail.com
+
+//TA
+Email,FirstName,LastName
+xa@gmail.com,Anantha,A
+yb@gmail.com,Balaram,B
+zc@gmail.com,Akash,A
+kd@gmail.com,Durga,D
+le@gmail.com,Nithin,N
+mf@gmail.com,Harsha,H
+ds@gmail.com,Deepak,D
+
+//Acad Admin does not matter.
+First name,Last name,ID
+Vasu,Devaraju,1
+Anil,Sanagapuram,2
+Rahul,Takkallapally,3
+Vishal,Dulipati,4
+Vijay,Devarakonda,5
+Ajay,Amartaluri,6
+Sunil,Animolu,7
+Mudit,Sugliganj,8
+Keshav,Agarwal,9
+Vishwa,Banala,10
+Nikhil,Reddy,11
+
+//AcadQualification
+ID, Qualification
+1,B-Tech
+2,IT
+3,Diplama
+4,Diplama
+5,IT
+6,B-Tech
+7,IT
+8,IT
+9,B-Tech
+10,B-Tech
+11,Diplama
+
+
+
+
+//Course only few
+Course_ID,semester
+CS_001,Monsoon
+CS_002,Monsoon
+CS_004,Monsoon
+CS_005,Monsoon
+EC_002,Monsoon
+EC_004,Monsoon
+MATH_003,Monsoon
+CS_003,Spring
+CS_006,Spring
+EC_001,Spring
+EC_003,Spring
+MATH_001,Spring
+MATH_002,Spring
+
+
+//Quiz
+Course_ID,platform,Date,Start Time, End time
+CS_001,Code Tantra,21-11-21,10:00:00,10:45:00
+CS_001,Code Tantra,24/10/21,09:00:00,10:00:00
+CS_002,Moodle,25-10-21,9:00,09:45:00,11:00:00
+CS_002,Moodle,19-11-21,10:00:00,10:30:00
+CS_002,Code Tantra,15-11-21,12:00:00,01:00:00
+CS_004,Code Tantra,13-11-21,03:00:00,03:45:00
+CS_005,Moodle,28-10-21,11:00:00,11:45:00
+
+
+//Assignment
+Course_ID,Release data,End date,Time given, Assignment file
+CS_001,07-09-21,15-09-21,8,https://cs001/A/1
+CS_001,17-10-21,16-10-21,7,https://cs001/A/2
+CS_001,09-09-21,16-09-21,7,https://cs001/A/3
+CS_004,11-09-21,18-09-21,8,https://cs004/A/1
+CS_004,13-10-21,20-10-21,8,https://cs004/A/2
+CS_005,15-10-21,14-10-21,8,https://cs005/A/1
+
+
+//project
+Course_ID,Projectfile,Startdate,Enddate,Teamsize
+CS_002,https://cs002/P/1,07/10/21,14/10/21,2
+CS_004,https://cs004/P/1,09/0921,16/09/21,2
+CS_005,https://cs005/P/1,10/21,20/10/21,2
+
+
+//wait for registration.
+Proj_Team
+Student_email1,Student_email2,projectfile,TA_email
+ak@gmail.com,bk@gmail.com,https://www.youtube.com/watch?v=ywx-Onrdx4U,Vamsi@students.iiit.ac.in
+//ck@gmail.com,dk@gmail.com,https://www.youtube.com/watchv=FbYzBWdhMb0,Prasanth@students.iiit.ac.in
+//ek@gmail.com,fk@gmail.com,https://www.youtube.com/watch?v=1U3Uwct45IY,triveni@students.iiit.ac.in
+//gk@gmail.com,hk@gmail.com,https://www.youtube.cowatchv=A03oI0znAoc,pravallika@students.iiit.ac.in
+//ik@gmail.com,jk@gmail.com,https://www.youtube.com/watch?v=9TlHvipP5yA,bhavana@students.iiit.ac.in
+//kk@gmail.com,lk@gmail.com,https://www.youtube.com/watch?v=On9mzziI2pU,aravinda@research.iiit.ac.in
+
+

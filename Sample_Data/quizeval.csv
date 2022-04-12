@@ -1,0 +1,6 @@
+student_email, Date_quiz, course_id, ta_email, score, verified, submission, remarks
+x@gmail.com,21-11-21,CS_001,xa@gmail.com,74,TRUE,https://cs001/Q211121/x,Q4 only 4 points given.
+x@gmail.com,28-10-21,CS_005,ds@gmail.com,100,TRUE,https://cs005/Q281021/x, Not applicable
+y@gmail.com,15-11-21,CS_002,zc@gmail.com,100,FALSE,https://cs02/Q151121/y, Not applicable
+y@gmail.com,13-11-21,CS_004,le@gmail.com,90,TRUE,https://cs04/131121/y, Q1 not written
+z@gmail.com,21-11-21,CS_001,yb@gmail.com,99,FALSE,https://cs01/Q211121/z,Q5 spelling mistake

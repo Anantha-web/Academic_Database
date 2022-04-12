@@ -1,0 +1,25 @@
+ID, Qualification
+1,B-Tech
+2,IT
+3,Diplama
+4,Diplama
+5,IT
+6,B-Tech
+7,IT
+8,IT
+9,B-Tech
+10,B-Tech
+11,Diplama
+
+insert into AcadQualification values
+(1, 'B-Tech'),
+(2, 'IT'),
+(3, 'Diplama'),
+(4, 'Diplama'),
+(5, 'IT'),
+(6, 'B-Tech'),
+(7, 'IT'),
+(8, 'IT'),
+(9, 'B-Tech'),
+(10, 'B-Tech'),
+(11, 'Diplama');

@@ -1,0 +1,12 @@
+Webpage,Course_ID
+http://web-keerthi.p,Keerthi,CS_001
+http://web-lakshmi.b,CS_002
+http://web-nan.m,Nanditha,CS_004
+http://web-vamsi.k,CS_005
+
+
+insert into Professofship values
+('http://web-keerthi.p', 'CS_001'),
+('http://web-lakshmi.b', 'CS_002'),
+('http://web-nan.m', 'CS_004'),
+('http://web-vamsi.k', 'CS_005');

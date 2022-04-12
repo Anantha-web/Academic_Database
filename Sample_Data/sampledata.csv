@@ -1,0 +1,18 @@
+student_email,project_file,ta_email,score,verified,submission,remarks, 
+x@gmail.com,https://cs001/P/1,xa@gmail.com,76,TRUE,https://github.com/p/1,Full,spellmistakes
+z@gmail.com,https://cs001/P/1,yb@gmail.com,79,TRUE,https://github.com/p/1,Partial,ppt_not_presented
+y@gmail.com,https://cs004/P/1,mf@gmail.com,84,FALSE,https://github.com/p/1,Full,morecontentneeded
+x@gmail.com,https://cs001/P/2,xa@gmail.com,76,TRUE,https://github.com/p/1,Partial,spellmistakes
+z@gmail.com,https://cs001/P/2,yb@gmail.com,79,TRUE,https://github.com/p/1,Partial,ppt_not_presented
+y@gmail.com,https://cs004/P/2,mf@gmail.com,84,FALSE,https://github.com/p/1,Full,contentnotsufficient
+
+
+
+student_email, project_file, ta_email, score, verified, submission, remarks, 
+insert into PROJ_EVALS values
+('x@gmail.com', 'https://cs001/P/1', 'xa@gmail.com', 76, TRUE, 'https://github.com/p/1', 'Full spellmistakes', 'CS_001'),
+('z@gmail.com', 'https://cs001/P/1', 'yb@gmail.com', 79, TRUE, 'https://github.com/p/1', 'Partial ppt_not_presented', 'CS_001'),
+('y@gmail.com', 'https://cs004/P/1', 'mf@gmail.com', 84, FALSE, 'https://github.com/p/1', 'Full morecontentneeded', 'CS_004'),
+('x@gmail.com', 'https://cs001/P/2', 'xa@gmail.com', 76, TRUE, 'https://github.com/p/1', 'Partial spellmistakes', 'CS_001'),
+('z@gmail.com', 'https://cs001/P/2', 'yb@gmail.com', 79, TRUE, 'https://github.com/p/1', 'Partial ppt_not_presented', 'CS_001'),
+('y@gmail.com', 'https://cs004/P/2', 'mf@gmail.com', 84, FALSE, 'https://github.com/p/1', 'Full contentnotsufficient', 'CS_004');

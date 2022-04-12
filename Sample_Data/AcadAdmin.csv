@@ -1,0 +1,25 @@
+First name,Last name,ID
+Vasu,Devaraju,1
+Anil,Sanagapuram,2
+Rahul,Takkallapally,3
+Vishal,Dulipati,4
+Vijay,Devarakonda,5
+Ajay,Amartaluri,6
+Sunil,Animolu,7
+Mudit,Sugliganj,8
+Keshav,Agarwal,9
+Vishwa,Banala,10
+Nikhil,Reddy,11
+
+insert into Acad_Admin values
+('Vasu', 'Devaraju', 1),
+('Anil', 'Sanagapuram', 2),
+('Rahul', 'Takkallapally', 3),
+('Vishal', 'Dulipati', 4),
+('Vijay', 'Devarakonda', 5),
+('Ajay', 'Amartaluri', 6),
+('Sunil', 'Animolu', 7),
+('Mudit', 'Sugliganj', 8),
+('Keshav', 'Agarwal', 9),
+('Vishwa', 'Banala', 10),
+('Nikhil', 'Reddy', 11);

@@ -1,0 +1,16 @@
+student_email,Project_file,Submission
+y@gmail.com,https://cs002/P/1,https://github.com/p/1
+z@gmail.com,https://cs002/P/1,https://github.com/p/1
+y@gmail.com,https://cs004/P/1,https://github.com/p/2
+x@gmail.com,https://cs004/P/1,https://github.com/p/2
+x@gmail.com,https://cs005/P/1,https://github.com/p/3
+y@gmail.com,https://cs005/P/1,https://github.com/p/3
+
+
+insert into PROJ_SUBMISSIONS values
+('y@gmail.com', 'https://cs002/P/1', 'https://github.com/p/1', 'CS_002'),
+('z@gmail.com', 'https://cs002/P/1', 'https://github.com/p/1', 'CS_002'),
+('y@gmail.com', 'https://cs004/P/1', 'https://github.com/p/2', 'CS_004'),
+('x@gmail.com', 'https://cs004/P/1', 'https://github.com/p/2', 'CS_004'),
+('x@gmail.com', 'https://cs005/P/1', 'https://github.com/p/3', 'CS_005'),
+('y@gmail.com', 'https://cs005/P/1', 'https://github.com/p/3', 'CS_005');

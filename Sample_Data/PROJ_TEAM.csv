@@ -1,0 +1,10 @@
+student_email_1,student_email_2,project_file,ta_email,Course_ID
+y@gmail.com,z@gmail.com,https://cs002/P/1,kd@gmail.com,CS_002
+y@gmail.com,x@gmail.com,https://cs004/P/1,le@gmail.com,CS_004
+y@gmail.com,x@gmail.com,https://cs005/P/1,ds@gmail.com,CS_005
+
+insert into PROJ_TEAM values
+('y@gmail.com', 'z@gmail.com', 'https://cs002/P/1', 'kd@gmail.com', 'CS_002'),
+('y@gmail.com', 'x@gmail.com', 'https://cs004/P/1', 'le@gmail.com', 'CS_004'),
+('y@gmail.com', 'x@gmail.com', 'https://cs005/P/1', 'ds@gmail.com', 'CS_005');
+

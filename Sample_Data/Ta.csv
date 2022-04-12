@@ -1,0 +1,17 @@
+Email,FirstName,LastName
+xa@gmail.com,Anantha,A
+yb@gmail.com,Balaram,B
+zc@gmail.com,Akash,A
+kd@gmail.com,Durga,D
+le@gmail.com,Nithin,N
+mf@gmail.com,Harsha,H
+ds@gmail.com,Deepak,D
+
+insert into TA values
+('xa@gmail.com', 'Anantha', 'A'),
+('yb@gmail.com', 'Balaram', 'B'),
+('zc@gmail.com', 'Akash', 'A'),
+('kd@gmail.com', 'Durga', 'D'),
+('le@gmail.com', 'Nithin', 'N'),
+('mf@gmail.com', 'Harsha', 'H'),
+('ds@gmail.com', 'Deepak', 'D');
