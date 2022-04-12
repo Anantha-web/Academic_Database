@@ -1,0 +1,191 @@
+CREATE TABLE Professor
+(
+    Country varchar(100),
+    City varchar(100),
+    pin_code varchar(20),
+    Web_page varchar(150) not null,
+    first_Name varchar(100),
+    last_Name varchar(100),
+    primary key (Web_page)
+);
+
+INSERT INTO Professor
+(
+	Country,
+	City,
+        pin_code,
+	Web_page,
+        first_Name,
+        last_Name,
+)
+VALUES
+	(
+		'India',
+		'Chandigarh',
+		232341,
+		'http://web-keerthi.p',
+		'Keerthi',
+		'p'
+	),
+	(
+		'India',
+		'warangal',
+		506001,
+		'http://web-lakshmi.b',
+		'Lakshmi',
+		'b'
+	);
+	(
+		'India',
+		'Bhopal',
+ 		462001,
+		'http://web-nan.m',
+		'Nanditha',
+		'm'
+	);
+	(
+		'India'
+ 		'Surat',
+ 		768980,
+ 		'http://web-vamsi.k',
+		'VamsiKasyap',
+		'k'
+	);
+
+CREATE TABLE ProfEmail
+(
+    Web_page varchar(150) not null,
+    Email varchar(100), 
+    primary key (Web_page)
+);
+
+VALUES
+	(
+		'http://web-keerthi',
+		'keerthi.p@gmail.com'
+	);
+	(
+		'http://web-lakshmi',
+		'lb@gmail.com'
+	);
+	(
+		'http://web-nan',
+		'nandu.m@gmail.com'
+	);
+	(
+		'http://web-vamsi',
+		'vk@gmail.com'
+	);
+		
+
+CREAT TABLE Proflab
+(
+    Web_page varchar(150) not null,
+    Research_Labs  varchar(20),
+    primary key (Web_page)
+);
+
+VALUES
+	(
+		'http://web-keerthi.p',
+		'Keerthi',
+		'DSoC'
+	);
+	(
+		'http://web-nan.m',
+		'Nandhita',
+		'CSD'
+	);
+	(
+		'http://web-lakshmi.b',
+		'Lakshmi',
+		'COGINT'
+	);
+	(
+		'http://web-vamsi.k',
+		'VamsiKasyap',
+		'CVIT'
+	);
+
+
+CREAT TABLE Student
+(
+    first_Name varchar(100),
+    last_Name varchar(100),
+    Roll int,
+    Email varchar(100) not null,
+    primary key (Email)
+);
+
+VALUES
+	(
+		'Anantha',
+		'Lakshmi',
+		2020101103,
+		'x@gmailcom'
+	);
+	(
+		'Balaram',
+		'Krishna',
+		2020101024,
+		'y@gmailcom'
+	);
+	(
+		'Sai',
+		'Akash',
+		2020101042,
+		'xz@gmailcom'
+	);
+	
+	
+
+CREATE TABLE Studentship(
+Attendence int NOT NULL,
+student_email varchar(100) NOT NULL,
+Course_ID varchar(20),
+PRIMARY KEY(student_email,Course_ID)
+);
+
+
+VALUES
+	(
+		85,
+		'x@gmail.com',
+		'CS_001'
+	);
+	(
+		88,
+		'x@gmail.com',
+		'CS_004'
+	);
+	(
+		87,
+		'x@gmail.com',
+		'CS_005'
+	);
+	(
+		98,
+		'y@gmail.com',
+		'CS_002'
+	);
+	(
+		74,
+		'y@gmail.com',
+		'CS_004'
+	);
+	(
+		55,
+		'y@gmail.com',
+		'CS_005'
+	);
+	(
+		59,
+		'z@gmail.com',
+		'CS_001'
+	);
+	(
+		59,
+		'z@gmail.com',
+		'CS_002'
+	);
+	
