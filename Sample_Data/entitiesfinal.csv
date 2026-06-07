@@ -3,21 +3,21 @@ Country,City,pincode,Web-page,First_name,LastName
 India Chandigarh 232341,http://web-keerthi.p,Keerthi, p
 India warangal 506001,http://web-lakshmi.b,Lakshmi, b
 India Bhopal 462001,http://web-nan.m,Nanditha, m
-India Surat 768980,http://web-vamsi.k,VamsiKasyap, k
+India Surat 768980,http://web-vishu.k,VishwaReddy, k
 
 //proflabs
 Web_Page, Lab
 http://web-keerthi.p,Keerthi,DSoC
 http://web-lakshmi.b,Lakshmi,CSD
 http://web-nan.m,Nanditha,COGINT
-http://web-vamsi.k,VamsiKasyap,CVIT
+http://web-vishu.r,VishwaReddy,CVIT
 
 //ProfEmail
 Web_page, Email
 http://web-keerthi,keerthi.p@gmail.com
 http://web-lakshmi,lb@gmail.com
 http://web-nan,nandu.m@gmail.com
-http://web-vamsi,vk@gmail.com
+http://web-vishu,vr@gmail.com
 
 
 //Student
@@ -115,8 +115,8 @@ CS_005,https://cs005/P/1,10/21,20/10/21,2
 //wait for registration.
 Proj_Team
 Student_email1,Student_email2,projectfile,TA_email
-ak@gmail.com,bk@gmail.com,https://www.youtube.com/watch?v=ywx-Onrdx4U,Vamsi@students.iiit.ac.in
-//ck@gmail.com,dk@gmail.com,https://www.youtube.com/watchv=FbYzBWdhMb0,Prasanth@students.iiit.ac.in
+ak@gmail.com,bk@gmail.com,https://www.youtube.com/watch?v=ywx-Onrdx4U,sireesh@students.iiit.ac.in
+//ck@gmail.com,dk@gmail.com,https://www.youtube.com/watchv=FbYzBWdhMb0,meghana@students.iiit.ac.in
 //ek@gmail.com,fk@gmail.com,https://www.youtube.com/watch?v=1U3Uwct45IY,triveni@students.iiit.ac.in
 //gk@gmail.com,hk@gmail.com,https://www.youtube.cowatchv=A03oI0znAoc,pravallika@students.iiit.ac.in
 //ik@gmail.com,jk@gmail.com,https://www.youtube.com/watch?v=9TlHvipP5yA,bhavana@students.iiit.ac.in
